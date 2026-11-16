@@ -1,6 +1,6 @@
 body {
   background-color: #FFFFE0; /* warna kuning cerah */
-  font-family: Poppins; /* jenis huruf */
+  font-family: Arial,sans-serif; /* jenis huruf */
   color: #341C02; /* warna teks utama */
 }
 
@@ -10,7 +10,7 @@ body {
   padding: 20px;
   background-color: white;
   border-radius: 15px; /* membuat suudut melengkung */
-  box-shadow: 0px 4px 8px rgba(0,0,0,0,1); /* efek bayangan */
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.1); /* efek bayangan */
   text-align: center; /* menengahkan semua teks di dalam kartu */
 }
 
